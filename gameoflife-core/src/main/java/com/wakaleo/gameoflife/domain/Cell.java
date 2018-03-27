@@ -39,5 +39,6 @@ public enum Cell {
 	// Default getter
     public String getSymbol() {
         return symbol;
+	    System.out.println("hi");
     }
 }
